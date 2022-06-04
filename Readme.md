@@ -1,5 +1,5 @@
 # AIoT Homework 5 2022
-
+[Link](https://github.com/Forcer0625/2022-AIoT-HW5)
 ### step 1 : Clone My github repository
 * 複製存放庫
 ![](static/step1-1.png)
@@ -8,25 +8,20 @@
 * 選擇存放庫資料夾
 ![](static/step1-3.png)
 
-### step 2 : install some package
-
-
+### step 2 : install package
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install -r requirements.txt
 ```
+![](static/step2.png)
 
 ### step 3: add an heroku postgredb
 
 * register heroku account
-* go to dashboard
-* new an app
+![](static/step3-1.png)
+* go to dashboard, and add new an app
+![](static/step3-2.png)
 * go to resource and add-on an Heroku postgredb
+![](static/step3-3.png)
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
