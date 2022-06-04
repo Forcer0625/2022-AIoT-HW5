@@ -16,25 +16,22 @@ pip install -r requirements.txt
 
 ### step 3: add an heroku postgredb
 
-* register heroku account
+* 註冊Heroku帳號
 ![](static/step3-1.png)
 * go to dashboard, and add new an app
 ![](static/step3-2.png)
 * go to resource and add-on an Heroku postgredb
 ![](static/step3-3.png)
 
-### step 4: login to heroku pstgredb using HeidiSQL
+### step 4: login to heroku postgredb using HeidiSQL
+* 到postgredb查看資料庫屬性
+![](static/step4-1.png)
+* 新增
+![](static/step4-2.png)
 
-
-```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
-
-```
-### step 5: import postgredb (in db/postgre.db)
-
+### step 5: import postgredb (in db/postgre.sql)
+* 匯入並執行postgredb.sql
+![](static/step5-1.png)
 
 ### step 6: setting db in app.py
 
