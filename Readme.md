@@ -1,7 +1,7 @@
 # AIoT Homework 5 2022
 
-### step 1 : Clone this github
-
+### step 1 : Clone My github repository
+![](static/step1.png)
 ### step 2 : install some package
 
 
