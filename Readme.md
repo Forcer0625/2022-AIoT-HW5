@@ -43,10 +43,9 @@ pip install -r requirements.txt
 * 檢查運行情況
 ![](static/step7-2.png)
 
-### step 8: deploy to github (new private github repositoy)
-
-delete .git and git remote add origin master github.com/xxxxx
-
+### step 8: Push to github (origin master)
+* 推送到github上
+![](static/step8.png)
 
 ### step 9: Heroku deploy from github
 
