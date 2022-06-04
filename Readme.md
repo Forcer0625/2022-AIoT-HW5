@@ -1,6 +1,4 @@
-# AIoT Github
-
-## Lecture 15: IoT Flask Web (deploy to heroku)
+# AIoT Homework 5 2022
 
 ### step 1 : Clone this github
 
