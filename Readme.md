@@ -48,16 +48,15 @@ pip install -r requirements.txt
 ![](static/step8.png)
 
 ### step 9: Heroku deploy from github
+* 連結Heroku和gihub
+![](static/step9-1.png)
+* 啟用Automatic Deploy
+![](static/step9-2.png)
 
 ### step 10: Complete
-
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
-
-Sample link 2: 
-https://aiot0529.herokuapp.com/
-
-
+[Heroku網站](https://aiothw5.herokuapp.com/)
+* 成果
+![](static/step10.png)
 
 
 
