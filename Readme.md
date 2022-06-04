@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ### step 4: login to heroku postgredb using HeidiSQL
 * 到postgredb查看資料庫屬性
 ![](static/step4-1.png)
-* 新增
+* 在HeidiSQL新增資料庫
 ![](static/step4-2.png)
 
 ### step 5: import postgredb (in db/postgre.sql)
