@@ -1,11 +1,12 @@
 # AIoT Homework 5 2022
 
 ### step 1 : Clone My github repository
-![複製存放庫](static/step1-1.png)
-
-![選擇在遠端的存放庫進行複製](static/step1-2.png)
-
-![選擇存放庫資料夾](static/step1-3.png)
+* 複製存放庫
+![](static/step1-1.png)
+* 選擇在遠端的存放庫進行複製
+![](static/step1-2.png)
+* 選擇存放庫資料夾
+![](static/step1-3.png)
 
 ### step 2 : install some package
 
