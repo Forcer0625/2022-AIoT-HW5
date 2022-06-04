@@ -6,10 +6,10 @@ import json
 app = Flask(__name__)
 #0531 change 1
 # the following configuration must use heroku add-on postgredb
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
+myserver ="ec2-3-211-221-185.compute-1.amazonaws.com"
+myuser="xtpaymibgfuyze"
+mypassword="07aef4beba5d70f745f8fd552038f5099d5a8ffc288660c37263378db1f693eb"
+mydb="dfaktbta219prr"
 
 
 @app.route("/data.json")

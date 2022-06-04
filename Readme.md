@@ -34,13 +34,13 @@ pip install -r requirements.txt
 ![](static/step5-1.png)
 
 ### step 6: setting db in app.py
-
-
+* 在`app.py`填入postgredb相關資訊
+![](static/step6.png)
 ```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
+myserver ="ec2-3-211-221-185.compute-1.amazonaws.com"
+myuser="xtpaymibgfuyze"
+mypassword="07aef4beba5d70f745f8fd552038f5099d5a8ffc288660c37263378db1f693eb"
+mydb="dfaktbta219prr"
 
 ```
 ### step 7: testing locally by running python app.py
