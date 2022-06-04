@@ -36,14 +36,12 @@ pip install -r requirements.txt
 ### step 6: setting db in app.py
 * 在`app.py`填入postgredb相關資訊
 ![](static/step6.png)
-```sql
-myserver ="ec2-3-211-221-185.compute-1.amazonaws.com"
-myuser="xtpaymibgfuyze"
-mypassword="07aef4beba5d70f745f8fd552038f5099d5a8ffc288660c37263378db1f693eb"
-mydb="dfaktbta219prr"
 
-```
 ### step 7: testing locally by running python app.py
+* 本地端執行Flask
+![](static/step7-1.png)
+* 檢查運行情況
+![](static/step7-2.png)
 
 ### step 8: deploy to github (new private github repositoy)
 
